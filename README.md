@@ -26,7 +26,7 @@ Arshis-Memory-Pro is an advanced memory management system for AI agents, featuri
 
 ### Key Features
 
-- **100K Memory Capacity** - Store up to 100,000 memories with smart decay
+- **100K Memory Capacity** - Store up to 200,000 memories with smart decay
 - **Hybrid Retrieval** - Vector similarity + BM25 keyword search
 - **Auto Categorization** - 15 categories with automatic tagging
 - **Smart Decay** - 730-day half-life with importance-based retention
