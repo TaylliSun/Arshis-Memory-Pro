@@ -3,7 +3,7 @@ name: Arshis-Memory-Pro
 description: OpenClaw Primary Memory Plugin with LanceDB vector database, hybrid retrieval, self-evolution, Arshis Dreaming Engine, and context injection control.
 version: 5.0.0
 author: Arshis
-license: MIT-0
+license: MIT
 ---
 
 # Arshis-Memory-Pro
@@ -144,4 +144,4 @@ This plugin does not make outbound network requests, does not collect or upload 
 
 ## License
 
-MIT-0
+MIT
